@@ -1,4 +1,4 @@
-# 🎡 Autocomplete
+# 🐸 Autocomplete
 This is simple memroy based autocomplete for your data. It use hash, shards and int ID and it do not store data. It is useful for lookup lists and so on. Its very fast with O(1) access. I made it because some times I need a real simple autocomplete but there is no it.
 
 ### Install
